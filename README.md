@@ -76,8 +76,8 @@ I turn complex workflows into practical AI tools, grounded in software engineeri
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hungdp123&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark">
-  <img height="170" alt="Hung's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hungdp123&show_icons=true&hide_border=true&include_all_commits=true&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hungdp123&show_icons=true&hide_border=true&theme=github_dark">
+  <img height="170" alt="Hung's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hungdp123&show_icons=true&hide_border=true&theme=default">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hungdp123&hide_border=true&theme=github-dark-blue">
